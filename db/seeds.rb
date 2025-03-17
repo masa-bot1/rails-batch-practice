@@ -14,4 +14,3 @@ User.transaction do
     end
   end
 end
-
